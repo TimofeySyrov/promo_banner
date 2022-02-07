@@ -1,0 +1,23 @@
+.button {
+  width: 100%;
+  min-height: 52px;
+  height: fit-content;
+  padding: 12px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--mainColor2);
+  color: var(--mainColor2);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.button_active {
+  background-color: var(--mainColor2);
+  color: white;
+}
+
+.button_disabled {
+  border: 1px solid var(--disabledColor);
+  color: var(--disabledColor);
+}
