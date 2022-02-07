@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/promo_banner/static/css/main.073c9b0a.css",
-    "main.js": "/promo_banner/static/js/main.69ce6daa.js",
+    "main.css": "/promo_banner/static/css/main.bf681608.css",
+    "main.js": "/promo_banner/static/js/main.14d8762d.js",
     "static/js/787.bdc6a7fe.chunk.js": "/promo_banner/static/js/787.bdc6a7fe.chunk.js",
-    "static/media/logo.svg": "/promo_banner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/VolvoTrucks.mp4": "/promo_banner/static/media/VolvoTrucks.74796462ee4bc93573a3.mp4",
+    "static/media/Roboto-Medium.ttf": "/promo_banner/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/promo_banner/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/promo_banner/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/promo-qr-code.svg": "/promo_banner/static/media/promo-qr-code.e3690dd56e7b5246a881711b555b2700.svg",
     "index.html": "/promo_banner/index.html",
-    "main.073c9b0a.css.map": "/promo_banner/static/css/main.073c9b0a.css.map",
-    "main.69ce6daa.js.map": "/promo_banner/static/js/main.69ce6daa.js.map",
+    "main.bf681608.css.map": "/promo_banner/static/css/main.bf681608.css.map",
+    "main.14d8762d.js.map": "/promo_banner/static/js/main.14d8762d.js.map",
     "787.bdc6a7fe.chunk.js.map": "/promo_banner/static/js/787.bdc6a7fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.69ce6daa.js"
+    "static/css/main.bf681608.css",
+    "static/js/main.14d8762d.js"
   ]
 }
