@@ -25,7 +25,7 @@ const Button = ({
     return `${styles.button}`;
   };
 
-  return <div className={getClassNames()}>{children}</div>;
+  return <button className={getClassNames()}>{children}</button>;
 };
 
 export default Button;

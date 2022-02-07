@@ -7,9 +7,14 @@
   align-items: center;
   justify-content: center;
   border: 2px solid var(--mainColor2);
+  background-color: transparent;
   color: var(--mainColor2);
   text-transform: uppercase;
+  font-family: var(--mainFontFamily);
   font-weight: 500;
+  font-size: var(--textSize);
+  cursor: pointer;
+  user-select: none;
 }
 
 .button_active {
