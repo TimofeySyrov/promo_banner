@@ -1,0 +1,23 @@
+.index {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.promo {
+  position: relative;
+}
+
+.promo__video {
+  width: 1280px;
+  height: 720px;
+}
+
+.promo__banner {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
