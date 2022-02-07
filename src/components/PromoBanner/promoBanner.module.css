@@ -1,0 +1,29 @@
+.promoBanner {
+  max-width: 251px;
+  padding: 20px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+  text-align: center;
+  background-color: var(--mainColor1);
+}
+
+.promoBanner__title {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--mainColor2);
+}
+
+.promoBanner__qr-code-box {
+  width: 126px;
+  display: flex;
+  flex-direction: column;
+  font-size: var(--subTextSize);
+  row-gap: 20px;
+}
+
+.promoBanner__confirm-button {
+  min-width: 156px;
+}
