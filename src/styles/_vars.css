@@ -1,0 +1,17 @@
+:root {
+  /* Colors */
+  --mainColor1: #86D3F4;
+  --mainColor2: #000000;
+  --sublineColor1: #565656;
+  --errorColor1: #EA0000;
+  --disabledColor: #4E4E4E;
+  
+  /* Fonts */
+  --mainFontFamily: 'Roboto', 'Arial', sans-serif;
+
+  /* Sizes */
+  --headerSize: 26px;
+  --bigHeaderSize: 32px;
+  --textSize: 16px;
+  --subTextSize: 14px;
+}
